@@ -1,0 +1,28 @@
+.item{
+    width: 500px;
+    color: #353935;
+    font-size: 20px;
+    margin: 0 auto;
+}
+.itemname{
+    font-weight: bold;
+    padding: 20px;
+}
+.line{
+    border: 1px solid black;
+}
+.button{
+    float:right;
+    font-size: large;
+    margin-top: -5px;
+    padding: auto;
+    border: 1px solid black;
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.completed{
+    text-decoration: line-through;
+}
